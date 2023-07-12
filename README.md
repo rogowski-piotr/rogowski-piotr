@@ -1,6 +1,6 @@
 <h2 align="center"> Welcome to My GitHub Profile! 👋 <br/> </h2>
 <p align="center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rogowski-piotr&show_icons=true&hide_border=false&count_private=true"/>
+  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rogowski-piotr&show_icons=true&hide_border=false&count_private=true&theme=transparent"/>
 </p>
 
 I'm Piotr, passionate about programming and love to create diverse projects. Feel free to explore my repositories and browse through my code. Hopefully, you'll find something interesting here! 😄
